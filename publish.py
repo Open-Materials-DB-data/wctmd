@@ -4,15 +4,15 @@ import os, shutil, sys
 
 from httk.httkweb import publish
 
-if not os.path.exists("docs"):
-    os.mkdir("docs")
+if not os.path.exists("output"):
+    os.mkdir("output")
 
-for filename in os.listdir("docs"):
+for filename in os.listdir("output"):
     if not filename.startswith("."):
-        f = os.path.join("docs",filename)
+        f = os.path.join("output",filename)
         if os.path.isdir(f):
             shutil.rmtree(f)
         else:
             os.unlink(f)
 
-publish("src","docs",'http://127.0.0.1/')
+publish("src","output",'http://127.0.0.1/')
