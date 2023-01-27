@@ -25,4 +25,4 @@ Carbon has a low solid solubility in bcc tungsten at equilibrium. However, metas
 Data
 ----
 
-An archive with the data related to this work is available here: `W_C_all_files.tar.gz <http://datasets.anyterial.se/wctmd/W_C_all_files.tar.gz>`__
+An archive with the data related to this work is available here: `W_C_all_files.tar.gz <http://datasets.anyterial.se/WC_tetragonal_Materials_and_Design/W_C_all_files.tar.gz>`__
