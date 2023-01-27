@@ -31,3 +31,8 @@ An archive with the data related to this work is available here:
 - Hosted via Linköping University GitLab: `W_C_all_files.tar.gz <https://mdi.gitlab-pages.liu.se/data/wctmd/W_C_all_files.tar.gz>`__
 
 Note: if any of the above links are broken or anything else needs to be updated, please let us know using `the contact info on the dataset web page. <https://data.openmaterialsdb.se>`__
+
+Permanent link
+--------------
+
+The permanent URL to use for this page is: https://data.openmaterialsdb.se/wctmd
